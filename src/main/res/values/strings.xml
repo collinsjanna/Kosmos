@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Astronomy Picture of the Day</string>
+    <string name="api_key">K2BTfAB9ExvIlMAwCA8XVlcykxXW2FkAL8oaS3Op</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="change_layout_manager">Change Layout</string>
+</resources>
